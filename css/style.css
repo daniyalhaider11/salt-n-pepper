@@ -14,10 +14,12 @@ html {
     font-size: 62.5%;
 }
 
-
 /* navbar started */
 .nav-items {
-    font-size: 2rem;
+    font-size: 1.8rem;
+}
+.nav-items:hover{
+    background-color: #ed1c24;
 }
 
 .header-logo {
@@ -28,12 +30,26 @@ html {
     border: 1px solid #ffffff;
     padding: 15px 20px;
     border-radius: 25px;
+    font-size: 1.5rem;
 }
+#franchise-btn:hover{
+    background-color: #ed1c24;
+}
+
 #order-btn{
     background-color: #ed1c24;
     border: 0px;
     padding: 15px 20px;
     border-radius: 25px;
+    font-size: 1.5rem;
+}
+
+#order-btn:hover{
+    color: #000000;
 }
 
 /* navbar ended */
+
+.container{
+    background-size: cover ;
+}
