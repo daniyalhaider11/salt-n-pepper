@@ -154,6 +154,11 @@ hr{
 
 .f-heading{
     text-align: center;
+    box-sizing: border-box;
+    background-image: url("/assets/index/snp-restuarant-franchise-bg.webp");
+    background-repeat: no-repeat;
+    background-position: right top;
+    max-width: 100%;
 }
 
 .big{
@@ -361,6 +366,10 @@ hr{
 .f2-heading h1{
     text-align: center;
     font-size: 3rem;
+    background-image: url("/assets/index/snp-express-franchise-bg1.webp");
+    background-repeat: no-repeat;
+    background-position: left top;
+    max-width: 100%;
 }
 
 .f2-heading .font-change{
@@ -377,6 +386,10 @@ hr{
     gap: 80px;
     padding: 10px 70px;
     
+    background-image: url("/assets/index/snp-express-franchise-bg2.webp");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    max-width: 100%;
 }
 
 
