@@ -98,7 +98,6 @@ main h2{
 
 .rating-content label{
     font-size: 1rem;
-    text-align: center;
 }
 
 form{
@@ -110,6 +109,10 @@ form{
 
 form label{
     font-size: 1rem;
+}
+
+form label strong{
+    color: #ed1c24;
 }
 
 form input{
@@ -187,13 +190,10 @@ footer a li{
     padding-bottom: 20px;
 }
 
-
-
 .foot-menu li{
     list-style: none;
     line-height: 40px;
 }
-
 
 .foot-address{
     width: 250px;
@@ -204,11 +204,9 @@ footer a li{
     line-height: 35px;
 }
 
-
 .foot-address p{
     padding-bottom: 20px;
 }
-
 
 .icon i{
     width: 40px;
