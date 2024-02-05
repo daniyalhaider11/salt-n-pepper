@@ -59,11 +59,12 @@
 .order-btn{
     background-color: #ed1c24;
     color: #fff;
-    width: 150px;
+    width: 170px;
     height: 60px;
     border: 1px solid #ed1c24;
-    border-radius: 29px;
-    padding: 21px;
+    border-radius: 28px;
+    padding: 20px;
+    margin-right: 10px;
 }
 .order-btn:hover{
     color: #000000;
@@ -354,7 +355,7 @@ hr{
     background-color: #000000;
     height: 2000px;
     /* color: #ffffff; */
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 .f2-heading h1{
@@ -698,7 +699,7 @@ footer a li{
 
 .copyright{
     background-color: #0F0F0F;
-    height: 80px;
+    height: 60px;
     color: #ffffff;
     font-size: 1rem;
     

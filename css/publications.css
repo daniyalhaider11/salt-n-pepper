@@ -44,7 +44,7 @@
 .franchise-btn{
     background-color: transparent;
     color: #ffffff;
-    width: 150px;
+    width: 170px;
     height: 60px;
     border: 1px solid #ffffff;
     border-radius: 28px;
@@ -58,11 +58,12 @@
 .order-btn{
     background-color: #ed1c24;
     color: #fff;
-    width: 150px;
+    width: 170px;
     height: 60px;
     border: 1px solid #ed1c24;
-    border-radius: 29px;
-    padding: 21px;
+    border-radius: 28px;
+    padding: 20px;
+    margin-right: 10px;
 }
 .order-btn:hover{
     color: #000000;
