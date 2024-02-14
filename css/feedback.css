@@ -94,7 +94,7 @@ main h2{
     padding: 30px 260px;
 }
 .fa-star:hover{
-    background-color: #ed1c24;
+    color: #ed1c24;
 }
 
 .rating-content label{
